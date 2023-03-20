@@ -2,7 +2,7 @@
 matrix like display (ncurses &amp; cpp)
 
 # COMPILE
-ncurses.h is required
+ncurses.h is required <br/>
 g++ Matrix.cc -o ./a.out -lncurses
 
 # RUN
