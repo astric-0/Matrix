@@ -1,5 +1,5 @@
 # Matrix
-print matrix like display (ncurses &amp; cpp)
+matrix like display (ncurses &amp; cpp)
 
 # COMPILE
 ncurses.h is required
